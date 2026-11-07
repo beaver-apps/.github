@@ -29,7 +29,7 @@ Install them from the browser and they sit on your home screen or desktop like n
 
 ## Coming next
 
-**Beaver Cookbook** is the next one! I've been practising in my little chef's hat. The pancakes are going grate,
+**Beaver Cook** is the next one! I've been practising in my little chef's hat. The pancakes are going grate,
 I only burned a few :P
 
 After that there's more planned: **Beaver Gamer** and **Beaver Planner**. I don't know yet what I'll play first.
