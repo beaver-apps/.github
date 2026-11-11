@@ -24,22 +24,24 @@ Every app is free, works offline, needs no account, and keeps your stuff on your
 |---|---|
 | <img src="https://beaver-apps.github.io/assets/beaver-read.gif" width="150" alt="The beaver reading a book"> | **[Beaver Reader](https://beaver-apps.github.io/reader/)**<br>A cozy EPUB and PDF reader with a pixel bookcase. I climb it, dust it (achoo!) and read along with you. |
 | <img src="https://beaver-apps.github.io/assets/beaver-code.gif" width="150" alt="The beaver working at his little computer"> | **[Beaver Focus](https://beaver-apps.github.io/focus/)**<br>A pomodoro timer with a lo-fi radio. I lock in when you lock in, take breaks with you and go to bed on time (mostly). |
+| <img src="https://beaver-apps.github.io/assets/beaver-cook.gif" width="150" alt="The beaver in a chef hat stirring a pot and flipping an egg"> | **[Beaver Cook](https://beaver-apps.github.io/cook/)** *(new!)*<br>I tell you what to cook from what's already in your cupboards, plan your whole week of meals in one go and cook along with you, one step at a time. |
+| <img src="https://beaver-apps.github.io/assets/beaver-plan.gif" width="150" alt="The beaver at his desk writing in a notepad with a pencil"> | **[Beaver Planner](https://beaver-apps.github.io/planner/)** *(new!)*<br>A week planner like a school timetable. Tell me your fixed things and your chores, and I fit the chores in around them and move them when life gets in the way (I always ask first). |
 
 Install them from the browser and they sit on your home screen or desktop like normal apps.
 
 ## Coming next
 
-**Beaver Cook** is the next one! I've been practising in my little chef's hat. The pancakes are going grate,
-I only burned a few :P
+Cook and Planner are brand new, so I'm still learnig the ropes in both. Expect a few burnt pancakes and a pencil
+that's a bit too big for me :P
 
-After that there's more planned: **Beaver Gamer** and **Beaver Planner**. I don't know yet what I'll play first.
-Probably something with logs.
+After that comes **Beaver Gamer**. I don't know yet what I'll play first. Probably something with logs.
 
 ## Who's behind this
 
 Beaver Apps is a hobby project by **[BwunLevain](https://github.com/BwunLevain)**, made for fun, with lots of acorns
 and a little help from me. The apps' source code is private; each app has a public repo with its ready-to-use files
-([reader](https://github.com/beaver-apps/reader), [focus](https://github.com/beaver-apps/focus)) and the front page
+([reader](https://github.com/beaver-apps/reader), [focus](https://github.com/beaver-apps/focus),
+[cook](https://github.com/beaver-apps/cook), [planner](https://github.com/beaver-apps/planner)) and the front page
 lives in [beaver-apps.github.io](https://github.com/beaver-apps/beaver-apps.github.io).
 
 <p align="center"><sub>Thanks for visiting! Come say hi at <a href="https://beaver-apps.github.io/">beaver-apps.github.io</a> <3</sub></p>
